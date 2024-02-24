@@ -1,0 +1,20 @@
+bookmarks = {
+	bookmark = {
+		name = "Mundo_Moderno2_NAME"
+		desc = "Mundo_Moderno2_DESC"
+		date = 2022.3.11.12
+		picture = "GFX_select_date_1936"
+		default_country = "GER"
+	
+		GER = {
+			history = GER_mundo_moderno_desc
+			ideology = fascism
+			ideas={
+
+			}
+			focuses = {
+
+			}
+		}
+  }
+}    
