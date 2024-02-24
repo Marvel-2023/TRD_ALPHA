@@ -5,6 +5,10 @@ state={
 	manpower = 6665500
 	
 	state_category = large_city
+
+	resources={
+		oil = 12
+	}
 	
 	history={
 		owner = BRA

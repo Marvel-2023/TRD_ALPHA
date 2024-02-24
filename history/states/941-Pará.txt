@@ -1,0 +1,28 @@
+
+state={
+	id=941
+	name="STATE_941"
+	manpower = 2104142
+	
+	state_category = town
+	
+	resources={
+		aluminium= 12
+		rubber = 60
+	}
+
+	history={
+		owner = BRA
+		buildings = {
+			infrastructure = 0
+
+		}
+		add_core_of = BRA
+	}
+
+	provinces={
+		1979 12853 12999 2214 10956 8172 4980 5008 10874 2035 13277 13279
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,33 @@
+
+state={
+	id=937
+	name="STATE_937" 
+	manpower = 591129
+	
+	state_category = town
+	
+	resources={
+		steel= 12
+	}
+
+	history={
+		owner = BRA
+		victory_points = {
+			10999 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			10999 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = BRA
+	}
+
+	provinces={
+		2153 10999 8196 
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,36 @@
+state={
+	id=939
+	name="STATE_939"
+	manpower = 4126014
+
+	resources = {
+       steel = 4
+	}
+
+	state_category = city
+
+	history={
+		owner = BRA
+		buildings = {
+			infrastructure = 3 #was: 5
+			industrial_complex = 6
+			air_base = 2
+
+			5168 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = BRA
+		victory_points = {
+			5168 5 
+		}
+
+	}
+
+	provinces={
+		8227 10345 1524 10998 5168 10939 1446 12961 5182 10967 
+	}
+	
+
+	local_supplies=0.0 
+}

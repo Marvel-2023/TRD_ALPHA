@@ -1,0 +1,25 @@
+
+state={
+	id=935
+	name="STATE_935"
+	manpower = 1102192
+	resources={
+		tungsten = 5
+    }
+	state_category = town
+
+	history={
+		owner = BRA
+		buildings = {
+			infrastructure = 3 #was: 5
+			air_base = 1
+		}
+		add_core_of = BRA
+	}
+
+	provinces={
+		5156 5178 4587 2109 8181 4533 8239 13273
+	}
+
+	local_supplies=0.0 
+}
